@@ -3,7 +3,7 @@ package edu.handong.csee.java.lab13.prob6;
 public class Prob6 {//public class Prob6
 
 	public static void main(String[] args) {//main
-		
+
 		UpPoint p1 = new UpPoint(3,3);//instantiate class UpPoint to p1 and pass on value 3 and 3
 		DownPoint p2 = new DownPoint(2,5);//instantiate class DownPoint to p2 and pass on value 2 and 5
 		DownPoint p3 = new DownPoint(4,7);//instantiate class DownPoint to p3 and pass on value 4 and 7

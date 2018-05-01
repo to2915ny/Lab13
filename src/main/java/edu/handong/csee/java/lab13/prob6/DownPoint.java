@@ -5,10 +5,10 @@ public class DownPoint  {//public class DownPoint
 	DownPoint(int x, int y){//constructor method with parameter int x and y
 		this.x = x; //store x into instance variable x
 		this.y = y;//store y into instance varaible y
-		}
+	}
 	public String toString()//public method toString which returns String type
 	{
-	return "x : " + x + " y : " + y;//return the string value
+		return "x : " + x + " y : " + y;//return the string value
 	}
 
 }

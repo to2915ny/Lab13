@@ -6,11 +6,11 @@ public class UpPoint implements CapitalPrint {//public class UpPoint which imple
 	UpPoint(int x, int y){//Constructor method with parameter int x and int y
 		this.x = x;//store x into instance variable x
 		this.y = y;//store y into instance variable y
-		}
+	}
 
 	public String toString()//public method toString which returns String type value
 	{
-	return "x : " + x + " y : " + y;//return string
+		return "x : " + x + " y : " + y;//return string
 	}
 
 }
